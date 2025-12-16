@@ -11,3 +11,6 @@ A simple experimental login screen UI inspired by:
 - Focused on layout, mood, and typography
 - Early learning exercise
 - Design-first, not implementation-ready
+
+## Preview
+![Preview](./bloodborne-ui.png)
