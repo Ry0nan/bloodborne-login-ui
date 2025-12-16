@@ -1,2 +1,13 @@
-# bloodborne-login-ui
-Experimental login screen UI inspired by Bloodborne and old League of Legends login screens. Created using Figma.
+# Bloodborne Login UI
+
+A simple experimental login screen UI inspired by:
+- Bloodborne’s gothic atmosphere
+- Classic League of Legends login screens
+
+## Tools
+- Figma
+
+## Notes
+- Focused on layout, mood, and typography
+- Early learning exercise
+- Design-first, not implementation-ready
